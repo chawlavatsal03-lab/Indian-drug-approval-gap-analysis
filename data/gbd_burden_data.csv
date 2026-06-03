@@ -1,0 +1,17 @@
+therapeutic_area,burden_indicator,value,year,burden_rank 
+Cardiovascular,deaths,2860000,2019,1 
+Diabetes / Obesity,prevalence,101000000,2021,2 
+Oncology,deaths,800000,2019,3 
+Respiratory (COPD),DALYs,25000000,2019,4 
+Neurology,DALYs,20000000,2019,5 
+Infectious disease,DALYs,15000000,2019,6 
+Gastrointestinal,DALYs,12000000,2019,7 
+Reproductive health,DALYs,5000000,2019,8 
+Dermatology,DALYs,4000000,2019,9 
+Immunology,DALYs,3000000,2019,10 
+Ophthalmology,DALYs,2500000,2019,11 
+Hematology,DALYs,2000000,2019,12 
+Blood product,DALYs,1000000,2019,13 
+Diagnostic,testing_gaps,999999,2025,14 
+Musculoskeletal,DALYs,8000000,2019,15 
+Inflammation,DALYs,6000000,2019,16 

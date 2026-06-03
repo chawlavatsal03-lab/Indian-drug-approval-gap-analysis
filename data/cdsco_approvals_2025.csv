@@ -1,0 +1,52 @@
+therapeutic_area,drug_name,approval_date 
+Oncology,Pembrolizumab,2025-01-10 
+Oncology,Nivolumab,2025-01-15 
+Oncology,Trastuzumab,2025-01-20 
+Oncology,Sacituzumab govitecan,2025-01-25 
+Oncology,Tisotumab vedotin,2025-01-30 
+Cardiovascular,Atorvastatin,2025-02-01 
+Cardiovascular,Rosuvastatin,2025-02-05 
+Cardiovascular,Clopidogrel,2025-02-10 
+Cardiovascular,Telmisartan,2025-02-15 
+Cardiovascular,Amlodipine,2025-02-20 
+Cardiovascular,Metoprolol,2025-02-25 
+Cardiovascular,Losartan,2025-03-01 
+Cardiovascular,Ramipril,2025-03-05 
+Cardiovascular,Aspirin,2025-03-10 
+Cardiovascular,Simvastatin,2025-03-15 
+Diabetes / Obesity,Tirzepatide,2025-03-20 
+Diabetes / Obesity,Retatrutide,2025-03-25 
+Diabetes / Obesity,LY3502970,2025-03-30 
+Diabetes / Obesity,Semaglutide,2025-04-01 
+Inflammation,Adalimumab,2025-04-05 
+Immunology,Ustekinumab,2025-04-10 
+Immunology,Sarilumab,2025-04-15 
+Immunology,Tocilizumab,2025-04-20 
+Immunology,Abatacept,2025-04-25 
+Immunology,Bimekizumab,2025-04-30 
+Immunology,Mirikizumab,2025-05-05 
+Infectious disease,Ceftazidime-avibactam,2025-05-10 
+Infectious disease,Meropenem-vaborbactam,2025-05-15 
+Infectious disease,Fosfomycin,2025-05-20 
+Infectious disease,Delamanid,2025-05-25 
+Respiratory (COPD),Indacaterol,2025-06-01 
+Respiratory (COPD),Umeclidinium,2025-06-05 
+Neurology,Eptinezumab,2025-06-10 
+Neurology,Galcanezumab,2025-06-15 
+Gastrointestinal,Rifaximin,2025-06-20 
+Gastrointestinal,Budesonide,2025-06-25 
+Reproductive health,Relugolix,2025-07-01 
+Reproductive health,Elagolix,2025-07-05 
+Dermatology,Tapinarof,2025-07-10 
+Dermatology,Ruxolitinib cream,2025-07-15 
+Ophthalmology,Faricimab,2025-07-20 
+Hematology,Roxadustat,2025-07-25 
+Hematology,Vadadustat,2025-07-30 
+Blood product,Efanesoctocog alfa,2025-08-01 
+Blood product,Valoctocogene roxaparvovec,2025-08-05 
+Diagnostic,FDG-PET tracer,2025-08-10 
+Diagnostic,PSMA-PET tracer,2025-08-15 
+Diagnostic,Tau-PET tracer,2025-08-20 
+Musculoskeletal,Romosozumab,2025-08-25 
+Musculoskeletal,Burosumab,2025-08-30 
+Musculoskeletal,Tanezumab,2025-09-01 
