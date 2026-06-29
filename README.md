@@ -29,6 +29,9 @@ Gap scores were compared between 2015 and 2026 to identify widening or narrowing
 - **Tobacco-related cancers** show a policy gap (+3).
 - **Obesity** is over-served (-4) – market-driven R&D.
 - **CVD and Diabetes** are "me-too" markets.
+## Dashboard Preview
+*Bubble Chart: Burden vs. Approvals (Bubble size = Gap)*
+![Bubble Chart](visualizations/bubble_chart.png)
 
 ## Limitations & Mitigation
 - **CDSCO data gap (2023–2026)**: Addressed by systematic news mining from four source categories (official releases, pharma news, government statements) with dual verification.
@@ -47,3 +50,4 @@ Fix clone URL in README
 cd Indian-drug-approval-gap-analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/gap_analysis.ipynb
+Add chart preview to README
