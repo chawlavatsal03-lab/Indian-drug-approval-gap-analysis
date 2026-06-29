@@ -43,6 +43,7 @@ Gap scores were compared between 2015 and 2026 to identify widening or narrowing
 ## Quick Start
 ```bash
 git clone https://github.com/chawlavatsal03-lab/Indian-drug-approval-gap-analysis.git
+Fix clone URL in README
 cd Indian-drug-approval-gap-analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/gap_analysis.ipynb
